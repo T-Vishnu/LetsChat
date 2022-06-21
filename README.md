@@ -64,6 +64,14 @@ java Client portnumber
 
 <img width="807" alt="image" src="https://user-images.githubusercontent.com/88847435/174862848-b77cb378-608c-4590-8ab7-269557923b24.png">
 
+#### When entered user does not exist in case of Private message:
+
+<img width="621" alt="image" src="https://user-images.githubusercontent.com/88847435/174871884-fc5089c5-7236-43a4-823d-db8aaf026c53.png">
+
+#### When we try to send empty chat:
+
+<img width="658" alt="image" src="https://user-images.githubusercontent.com/88847435/174871992-4ebe2988-14d5-4929-90d6-31ed7bdaf95b.png">
+
 #### Active users at the moment:
 
 <img width="645" alt="image" src="https://user-images.githubusercontent.com/88847435/174863030-f6bf1313-056e-48e7-8537-78ee901b6a0d.png">
@@ -71,6 +79,3 @@ java Client portnumber
 #### Leave the Chat:
 
 <img width="531" alt="image" src="https://user-images.githubusercontent.com/88847435/174863370-e77bc282-f9e6-4426-82df-eb6782709181.png">
-
-
-## **Demo Video:**
