@@ -45,3 +45,32 @@ java Client portnumber
 
 ## **Screenshots of working:**
 
+<img width="694" alt="image" src="https://user-images.githubusercontent.com/88847435/174860476-e09ece02-233d-4026-ae3f-e71d7fa111d6.png">
+
+<img width="691" alt="image" src="https://user-images.githubusercontent.com/88847435/174860791-5520505d-ba83-4b2c-bdd2-a1284bc9a485.png">
+
+<img width="694" alt="image" src="https://user-images.githubusercontent.com/88847435/174860929-d5e1f347-769e-4db6-858f-27b930dae551.png">
+
+<img width="694" alt="image" src="https://user-images.githubusercontent.com/88847435/174860999-d5c29d70-c22e-476b-ae07-29c17c7472cd.png">
+
+> Similarly some other clients are added
+
+<img width="686" alt="image" src="https://user-images.githubusercontent.com/88847435/174861904-f535afec-4fa5-4867-a48e-6044066b9f2d.png">
+
+#### BroadCast Feature:
+<img width="690" alt="image" src="https://user-images.githubusercontent.com/88847435/174862361-c22de7af-7a2f-4d9d-9bb4-3deef64e35b3.png">
+
+#### Private Message feature:
+
+<img width="807" alt="image" src="https://user-images.githubusercontent.com/88847435/174862848-b77cb378-608c-4590-8ab7-269557923b24.png">
+
+#### Active users at the moment:
+
+<img width="645" alt="image" src="https://user-images.githubusercontent.com/88847435/174863030-f6bf1313-056e-48e7-8537-78ee901b6a0d.png">
+
+#### Leave the Chat:
+
+<img width="531" alt="image" src="https://user-images.githubusercontent.com/88847435/174863370-e77bc282-f9e6-4426-82df-eb6782709181.png">
+
+
+
